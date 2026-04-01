@@ -1,1 +1,31 @@
+= [GoblinRX 214][v.2.x] DC Core module assembly guide
+:imagesdir: images
+:toc:
 
+== 1. General information
+
+This document provides assembly instructions for the GoblinRX 214 DC core module.
+
+Instructions for GoblinRX 214 full assembly are provided in the https://green-house-corp.atlassian.net/wiki/spaces/FS/pages/1236434976/GoblinRX+214+v.2.x+Device+Assembly+guide[GoblinRX 214 v.2.x DC Assembly guide].
+
+.Device construction
+image::Goblin_v2.0 2 DC CM GV  + full exploded.svg[Device Construction, width=600]
+
+[cols="^1,^1,^1"]
+|===
+|*Position*
+|*Name*
+|*Quantity*
+
+|1
+|Core Module D
+|1
+
+|1
+|Core Module D
+|1
+
+|1
+|Core Module D
+|1
+|===
